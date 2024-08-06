@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @karan22uuuu
-- 👀 I’m interested in ...data science and ML
-- 🌱 I’m currently learning ...DATA SCIENCE AND PYTHON
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..NEVER.
+- 👋 Hi, I’m Karanpreet singh sandhu
+- 👀 I’m interested in ...data science,ML and analytics
+- 🌱 I’m currently learning ...DATA SCIENCE,PYTHON,SQL 
+- 📫 How to reach me karanpreetsingh20044@gmail.com
 
 <!---
 karan22uuuu/karan22uuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
